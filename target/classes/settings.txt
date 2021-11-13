@@ -1,0 +1,4 @@
+carSpeed = 50
+animationCycleCount = -1
+carImage = src/main/resources/assets/truck.png
+carName = Truck

@@ -1,0 +1,2 @@
+Car name: Truck
+Car speed: 50km/h
