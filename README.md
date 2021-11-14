@@ -22,8 +22,8 @@ Here are some examples of what you can do in this game:
 - Set url to your own car image.
 
 ### Screenshots
-<a href="https://i.imgur.com/4pWUUYr.png" width="600px"></a>
-<a href="https://i.imgur.com/gxN5ZxC.png" width="600px"></a>
+![screen1]("https://i.imgur.com/4pWUUYr.png" width="600px")
+![alt text]("https://i.imgur.com/gxN5ZxC.png" width="600px")
 
 ### Installation
 
