@@ -1,4 +1,4 @@
-# Midterm project
+# Final project
 <p align="center">
   <a href="http://alatoo.edu.kg/#gsc.tab=0">
     International Ala-Too University<br/>
